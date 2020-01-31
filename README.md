@@ -2,20 +2,16 @@
 
 created a repository tictactoe
 
-it is the same like a traditional tictactoe game
+Two players can play this game, this game is designed only using python. Got to know more about OOPS concepts. This is fully functional on ur terminal and can be played smoothly whithout any doubts.
 
-this is a basic python program
+To play this game:
 
-in this there are 2 ushere we have fixed some values like a proper game.
-8
-​
-9
-the user has 3 chances to try
-10
-​
-11
-for each try the color changes, once the max try count is reached it is blocked and the color is also changed.aners each has a chance one by one
+First clone my repo in your terminal:
 
-each user has its own unique X or O to play each time.
+https://github.com/SaneeyaIqbal/Tic-Tac-Toe.git
 
-every user in each try must try to get either horizontaly or vertically either 'XXX' or 'OOO'
+Then get into the repo type: cd tictactoe
+
+To run the file type:
+
+python3 game.py
